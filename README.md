@@ -1,2 +1,2 @@
 # Train_Ticket_System
-Unfinished.
+There are still many bugs with this project.
