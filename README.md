@@ -1,2 +1,2 @@
 # Train_Ticket_System
-There are still many bugs with this project.
+There are still many bugs in this project.
